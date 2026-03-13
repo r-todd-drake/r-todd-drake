@@ -1,16 +1,51 @@
-## Hi there 👋
+# R. Todd Drake
 
-<!--
-**r-todd-drake/r-todd-drake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Systems Engineer applying systems thinking to the one problem
+most engineers treat as purely manual — finding the next job.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Building Here
+
+After wrapping up a role in October 2025 I decided the job search
+itself was an engineering problem worth solving properly.
+
+The **AI Job Search Agent** is a multi-phase Python pipeline I've been
+building from scratch during my current search. It scores and ranks job
+postings using keyword analysis and Claude API semantic fit analysis,
+generates tailored application packages, and tracks pipeline metrics
+across an active application funnel.
+
+Zero prior Python experience when I started. Built it anyway.
+
+→ [job-search-agent](https://github.com/r-todd-drake/job-search-agent)
+
+---
+
+## Why This Exists
+
+A long job search is either something that happens to you, or something
+you engineer your way through. I chose the latter.
+
+Side effects include: learning Python, building an AI agent pipeline,
+and having something genuinely interesting to talk about in interviews.
+
+---
+
+## The Day Job (When I Have One)
+
+20+ years of defense systems engineering — MBSE architecture, autonomous
+systems, C4ISR, and Navy enterprise modernization. Active TS/SCI.
+
+- MBSE Pillar Lead — Project Overmatch (CNO priority program)
+- Lead SE — V-BAT / FTUAS (Shield AI, Army UAS competition)
+- Senior SE — Autonomous maritime platforms (Saronic Technologies)
+
+---
+
+## Stack
+Python · Anthropic Claude API · openpyxl · python-docx · Git
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/rtodddrake/) · [job-search-agent](https://github.com/r-todd-drake/job-search-agent)
