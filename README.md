@@ -21,6 +21,22 @@ Zero prior Python experience when I started. Built it anyway.
 → [job-search-agent](https://github.com/r-todd-drake/job-search-agent)
 
 ---
+## What I'm Exploring Next
+The job search agent raised a question worth pursuing properly —
+in multi-agent LLM systems, routing failures are often description
+failures. The orchestrator can only dispatch what it can find.
+
+**llm-artifact-optimization** is a systematic exploration of
+iterative optimization for the text artifacts that control LLM
+routing and behavior. Starting with agent description optimization,
+expanding to memory summarization and prompt optimization.
+
+Built on a systems engineering foundation — measured outcomes,
+explicit assumptions, phased verification strategy.
+
+→ [llm-artifact-optimization](https://github.com/r-todd-drake/llm-artifact-optimization)
+
+---
 
 ## Why This Exists
 
@@ -45,6 +61,7 @@ systems, C4ISR, and Navy enterprise modernization. Active TS/SCI.
 
 ## Stack
 Python · Anthropic Claude API · openpyxl · python-docx · Git
+· Multi-agent systems · LLM evaluation loops
 
 ---
 
